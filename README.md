@@ -12,3 +12,6 @@ CodeWithPatan
 - calculator.py
 - grade_checker.py
 - even_odd..py
+- for_loop.py
+- multiplication_table.py
+- sum_n_numbers.py
