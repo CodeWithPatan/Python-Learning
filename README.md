@@ -6,3 +6,5 @@ CodeWithPatan
 
 ## Programs
 - hello.py
+- day2.py
+- variables.py
