@@ -18,3 +18,4 @@ CodeWithPatan
 - factorial.py
 - while_loop.py
 - even_using_while.py
+- list_demo.py
