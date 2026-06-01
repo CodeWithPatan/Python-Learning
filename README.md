@@ -17,3 +17,4 @@ CodeWithPatan
 - sum_n_numbers.py
 - factorial.py
 - while_loop.py
+- even_using_while.py
