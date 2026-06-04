@@ -1,5 +1,5 @@
 # Python Learning
-This repository contains my Python Learning programs.
+This repository contains my Python Learning journey from beginner to intermediate level. It includes programs on python variables, loops, conditions, functions, lists, and basic problem-solving. 
 
 ## Author
 CodeWithPatan
