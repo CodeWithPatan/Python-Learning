@@ -20,3 +20,4 @@ CodeWithPatan
 - even_using_while.py
 - list_demo.py
 - list_using_for_loop.py
+- functions.py
